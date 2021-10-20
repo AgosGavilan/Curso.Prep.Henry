@@ -1,0 +1,4 @@
+for: es un bucle en el cual, dentro de sus parentesis, debemos establecer 3 condiciones de suma importancia: el inicio del bucle, la condicion de su ejecucion, y el incremento de nuestra variable.
+&&: significa "y" lo utilizamos para saber si las expresiones, entre las que esta comprendido, son verdaderas.
+||: significan "o" y se usa para saber si alguna de las expresiones es verdadera.
+!: lo usamos para que devuelva el valor opuesto a aquello a lo que esta afectando. 
