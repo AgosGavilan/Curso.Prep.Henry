@@ -1,0 +1,7 @@
+variable: una variable es un lugar, dentro de js, en donde puedo ir almacenando valores que usaré mas tarde.
+strings: son un oraciones que estan siempre entre comillas.
+funciones: son lugares en donde voy a guardar la ejecucion de un codigo que mas adelante voy a querer reutilizar.
+    -argumentos: son datos que van dentro de los parentesis de mi funcion.
+    -return: hace que la funcion me devuelva un valor fuera de ella.
+declaraciones if: usamos el if para preguntar si se cumple o no cierta condicion.
+valores booleanos (true y false): dicen si una sentencia es verdadero o falso.
