@@ -1,0 +1,1 @@
+arrays: son como cajas dentro de los cuales podemos almacenar distintos tipos de datos, como los strings, numeros o booleanos.
