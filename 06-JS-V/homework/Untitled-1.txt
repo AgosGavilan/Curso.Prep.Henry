@@ -1,0 +1,2 @@
+prototype: son metodos creados por una clase que puede ser utilizado por todos los objetos que se crean a partir de ella.
+constructors (de clase): es un metodo que se usa para crear y dar inicio a un objeto que fue creado a partir de una clase.
